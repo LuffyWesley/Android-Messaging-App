@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1041078402102",
+    "project_id": "msti-chat",
+    "storage_bucket": "msti-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041078402102:android:de83bfa46470067abf6c97",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041078402102-ls92s6a6cu44katv6pg2s4av6508keeh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "f4e0f9830d0b3d854b2ba44bf51fac1df2734209"
+          }
+        },
+        {
+          "client_id": "1041078402102-6i0950agih84l6ue087olsph0i48v2i7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIUZUWJ-OJkKmWhDoe4Vie77FIw9cvEWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041078402102-6i0950agih84l6ue087olsph0i48v2i7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
